@@ -1,0 +1,29 @@
+h1 {
+	font-size: 30px;
+	color: purple;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	line-height: 50px;
+}
+
+h2 {
+	font-size: 30px;
+	color: coral;
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 30px;
+	font-family: "BPG DedaEna Nonblock", sans-serif;
+	color: purple;
+}
+
+p {
+	width: 100;
+	text-indent: 50px;
+	line-height: 40px;
+/*	letter-spacing: 1px;*/
+	text-transform: lowercase;
+}
+
+
